@@ -1,3 +1,3 @@
 ## Demo 
 
-This app is hosted on Netlify, check it out [here](https://sociopedia12.netlify.app/).
+Explore the [project](https://sociopedia12.netlify.app/).
